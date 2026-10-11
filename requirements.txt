@@ -1,0 +1,9 @@
+# model.pkl was built with these exact versions. If you retrain in Colab,
+# change these pins to match Colab's versions (see the note in README.md).
+scikit-learn==1.9.1
+xgboost==3.4.1
+pandas>=2.2
+numpy>=1.26
+streamlit>=1.40
+matplotlib>=3.8
+seaborn>=0.13
